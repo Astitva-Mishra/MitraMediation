@@ -1,4 +1,3 @@
-import React from 'react';
 import { BookOpen, Users, FileText, Search } from 'lucide-react';
 
 const Features = () => {
